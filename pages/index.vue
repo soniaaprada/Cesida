@@ -5,7 +5,7 @@ definePageMeta({
 </script>
 
 <template>
-    <h1>cesida</h1>
+    <h1>cesida prueba</h1>
     <NuxtLink to="/nosotros">
         <h2>vamos</h2>
     </NuxtLink>
